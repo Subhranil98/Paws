@@ -1,0 +1,31 @@
+body {
+    background-color: blue;
+    text-align: center;
+    font-family: arial;
+}
+
+h1{
+    background-color: red;
+    color: yellow;
+}
+
+h2{
+    background-color: yellow;
+    color: brown;
+}
+
+h3{
+    background-color: purple;
+    color: white;
+    font-size: 2em;
+}
+
+img{
+    height: 250px;
+}
+
+p{
+    background-color: pink;
+    color:green;
+    font-size: 3em;
+}
